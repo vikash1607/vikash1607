@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Projects
-- 📫 Contact : vikash5247484@gmail.com
+- 📫 Mail : vikash5247484@gmail.com
 
 <!---
 vikash1607/vikash1607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
