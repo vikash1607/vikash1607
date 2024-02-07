@@ -1,5 +1,5 @@
 👋 Hi, I’m Vikash kumar
-📊 Aspiring Data Scientist | Open to Collaborations 🤝
+📊 Full Stach Web-Developer and Data Enthusiast | Open to Collaborations 🤝
 
 Welcome to my GitHub! I'm passionate about leveraging data to derive meaningful insights and solve real-world problems. My repositories showcase a blend of exploratory data analysis, predictive modeling, and visualization projects.
 
